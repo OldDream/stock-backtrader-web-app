@@ -1,6 +1,6 @@
-akshare==1.4.27
+akshare==1.15.47
 backtrader==1.9.76.123
-pandas==1.4.1
+pandas==2.2.3
 pydantic==1.9.0
 pyecharts==1.9.1
 PyYAML==6.0
